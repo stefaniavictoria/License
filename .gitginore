@@ -1,0 +1,13 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Ignore bin directory
+bin/
+
+# Ignore target directory (for Maven projects)
+target/
+
+# Ignore build directory (for Gradle projects)
+build/
